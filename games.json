@@ -1,0 +1,5002 @@
+[
+  {
+    "id": "pet-tile-master",
+    "thumbnail": "https://gameglitchx.github.io/images/300.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "fruit-match-juicy-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/301.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "through-the-wall-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/302.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bird-sort-challenges",
+    "thumbnail": "https://gameglitchx.github.io/images/303.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "jump-to-the-mountain-for-the-brainrots",
+    "thumbnail": "https://gameglitchx.github.io/images/304.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "kings-and-queens-match-3",
+    "thumbnail": "https://gameglitchx.github.io/images/305.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ellie-and-ben-christmas-eve",
+    "thumbnail": "https://gameglitchx.github.io/images/306.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "spaceio",
+    "thumbnail": "https://gameglitchx.github.io/images/307.webp",
+    "genre": "Shooter, .IO"
+  },
+  {
+    "id": "labubu-pop",
+    "thumbnail": "https://gameglitchx.github.io/images/308.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "tailor-stylist-fashion-diary",
+    "thumbnail": "https://gameglitchx.github.io/images/309.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "obby-escape-barrys-jail-parkour",
+    "thumbnail": "https://gameglitchx.github.io/images/310.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "battle-arena",
+    "thumbnail": "https://gameglitchx.github.io/images/311.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "i8-city-driver",
+    "thumbnail": "https://gameglitchx.github.io/images/312.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "cinema-business-idle-games",
+    "thumbnail": "https://gameglitchx.github.io/images/313.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "rooftop-run",
+    "thumbnail": "https://gameglitchx.github.io/images/314.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "savage-defenders",
+    "thumbnail": "https://gameglitchx.github.io/images/315.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "road-digging-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/316.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "back-to-school-uniforms-edition",
+    "thumbnail": "https://gameglitchx.github.io/images/317.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "hidden-object-street-of-secrets",
+    "thumbnail": "https://gameglitchx.github.io/images/318.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "geometry-vibes-x-arrow",
+    "thumbnail": "https://gameglitchx.github.io/images/319.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "ultimate-yatzy",
+    "thumbnail": "https://gameglitchx.github.io/images/320.webp",
+    "genre": "Boardgames, Strategy"
+  },
+  {
+    "id": "travel-mahjong-deluxe",
+    "thumbnail": "https://gameglitchx.github.io/images/321.webp",
+    "genre": "Agility, Mahjong & Connect"
+  },
+  {
+    "id": "dinosaur-shifting-run",
+    "thumbnail": "https://gameglitchx.github.io/images/322.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cute-kitty-merge",
+    "thumbnail": "https://gameglitchx.github.io/images/323.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "lost-in-the-forest",
+    "thumbnail": "https://gameglitchx.github.io/images/324.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "pixel-flow",
+    "thumbnail": "https://gameglitchx.github.io/images/325.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "zooma-dragon",
+    "thumbnail": "https://gameglitchx.github.io/images/326.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "arcade-gp",
+    "thumbnail": "https://gameglitchx.github.io/images/327.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "screw-spin",
+    "thumbnail": "https://gameglitchx.github.io/images/328.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hexa-tap-away",
+    "thumbnail": "https://gameglitchx.github.io/images/329.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "draw-to-smash-zombie",
+    "thumbnail": "https://gameglitchx.github.io/images/330.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "obby-tsunami-escape-1-by-car",
+    "thumbnail": "https://gameglitchx.github.io/images/331.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "bloxorz-block-puzzle-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/332.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "number-rush",
+    "thumbnail": "https://gameglitchx.github.io/images/333.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "monster-school-vs-siren-head",
+    "thumbnail": "https://gameglitchx.github.io/images/334.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "my-castle-merge-story",
+    "thumbnail": "https://gameglitchx.github.io/images/335.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "winter-tetrix-trails",
+    "thumbnail": "https://gameglitchx.github.io/images/336.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "break-beat",
+    "thumbnail": "https://gameglitchx.github.io/images/337.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "happy-egg-catch",
+    "thumbnail": "https://gameglitchx.github.io/images/338.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hidden-paint-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/339.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "super-tank-wrestle",
+    "thumbnail": "https://gameglitchx.github.io/images/340.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "nuwpys-adventure",
+    "thumbnail": "https://gameglitchx.github.io/images/341.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bunnyhop-and-surf-maps",
+    "thumbnail": "https://gameglitchx.github.io/images/342.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "royal-pin",
+    "thumbnail": "https://gameglitchx.github.io/images/343.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "fury-tanks",
+    "thumbnail": "https://gameglitchx.github.io/images/344.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "pottery-master",
+    "thumbnail": "https://gameglitchx.github.io/images/345.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "chicken-banana-quest",
+    "thumbnail": "https://gameglitchx.github.io/images/346.webp",
+    "genre": "Art, Casual"
+  },
+  {
+    "id": "happy-fluffy-cubes",
+    "thumbnail": "https://gameglitchx.github.io/images/347.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "darling-doll",
+    "thumbnail": "https://gameglitchx.github.io/images/348.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "build-a-go-kart",
+    "thumbnail": "https://gameglitchx.github.io/images/349.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "slingshot-fortress",
+    "thumbnail": "https://gameglitchx.github.io/images/350.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "color-nonogram-puzzle-2",
+    "thumbnail": "https://gameglitchx.github.io/images/351.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "revoxel-3d-voxel-rpg-shooter",
+    "thumbnail": "https://gameglitchx.github.io/images/352.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "vegamix-match-3-village",
+    "thumbnail": "https://gameglitchx.github.io/images/353.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "word-search-universe",
+    "thumbnail": "https://gameglitchx.github.io/images/354.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "island-puzzle-build-solve",
+    "thumbnail": "https://gameglitchx.github.io/images/355.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "age-of-zombies",
+    "thumbnail": "https://gameglitchx.github.io/images/356.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "people-playground-ragdoll-arena",
+    "thumbnail": "https://gameglitchx.github.io/images/357.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "treasure-hunt-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/358.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "blast-cubes",
+    "thumbnail": "https://gameglitchx.github.io/images/359.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cheerful-plumber",
+    "thumbnail": "https://gameglitchx.github.io/images/360.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "toilet-time",
+    "thumbnail": "https://gameglitchx.github.io/images/361.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "zip-zap",
+    "thumbnail": "https://gameglitchx.github.io/images/362.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "gummy-merge",
+    "thumbnail": "https://gameglitchx.github.io/images/363.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "artillery-vs-tanks",
+    "thumbnail": "https://gameglitchx.github.io/images/364.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "arrow-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/365.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sort-balls-cones",
+    "thumbnail": "https://gameglitchx.github.io/images/366.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "molang-matchn-munch",
+    "thumbnail": "https://gameglitchx.github.io/images/367.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "dogs-vs-aliens",
+    "thumbnail": "https://gameglitchx.github.io/images/368.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "dinosaurs-vs-asteroids",
+    "thumbnail": "https://gameglitchx.github.io/images/369.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "sliding-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/370.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "puzzle-masters-travelers",
+    "thumbnail": "https://gameglitchx.github.io/images/371.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-blocks-2048",
+    "thumbnail": "https://gameglitchx.github.io/images/372.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mojicon-garden-connect",
+    "thumbnail": "https://gameglitchx.github.io/images/373.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "arrow-escape-master",
+    "thumbnail": "https://gameglitchx.github.io/images/374.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tcg-card-clicker",
+    "thumbnail": "https://gameglitchx.github.io/images/375.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "cap",
+    "thumbnail": "https://gameglitchx.github.io/images/376.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "archery-master",
+    "thumbnail": "https://gameglitchx.github.io/images/377.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "match-masters",
+    "thumbnail": "https://gameglitchx.github.io/images/378.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "sort-works-nuts-order",
+    "thumbnail": "https://gameglitchx.github.io/images/379.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "lion-family-sim-online",
+    "thumbnail": "https://gameglitchx.github.io/images/380.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "farm-defense",
+    "thumbnail": "https://gameglitchx.github.io/images/381.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "find-hidden-cats",
+    "thumbnail": "https://gameglitchx.github.io/images/382.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "labubu-and-me",
+    "thumbnail": "https://gameglitchx.github.io/images/383.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "jumper",
+    "thumbnail": "https://gameglitchx.github.io/images/384.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "freecell-solitaire",
+    "thumbnail": "https://gameglitchx.github.io/images/385.webp",
+    "genre": "Cards, Strategy"
+  },
+  {
+    "id": "basketball-rush",
+    "thumbnail": "https://gameglitchx.github.io/images/386.webp",
+    "genre": "Basketball, Casual"
+  },
+  {
+    "id": "panda-dash-auto-shooting",
+    "thumbnail": "https://gameglitchx.github.io/images/387.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "pogo-masters",
+    "thumbnail": "https://gameglitchx.github.io/images/388.webp",
+    "genre": "Racing & Driving, Sports"
+  },
+  {
+    "id": "dynamons-11",
+    "thumbnail": "https://gameglitchx.github.io/images/389.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "meme-mukbang-asmr-game",
+    "thumbnail": "https://gameglitchx.github.io/images/390.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "office-solitaire",
+    "thumbnail": "https://gameglitchx.github.io/images/391.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "dino-simulator-city-attack",
+    "thumbnail": "https://gameglitchx.github.io/images/392.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "cow-jam-farm-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/393.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pull-the-pin-fish-rescue",
+    "thumbnail": "https://gameglitchx.github.io/images/394.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "roblox-christmas-dressup",
+    "thumbnail": "https://gameglitchx.github.io/images/395.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "chibi-doll-avatar-creator",
+    "thumbnail": "https://gameglitchx.github.io/images/396.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "imposter-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/397.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "cryptogram",
+    "thumbnail": "https://gameglitchx.github.io/images/398.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "flower-shop",
+    "thumbnail": "https://gameglitchx.github.io/images/399.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "katana",
+    "thumbnail": "https://gameglitchx.github.io/images/400.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "save-the-bees",
+    "thumbnail": "https://gameglitchx.github.io/images/401.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "contract-deer-hunter",
+    "thumbnail": "https://gameglitchx.github.io/images/402.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "unpuzzle-master",
+    "thumbnail": "https://gameglitchx.github.io/images/403.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "farm-block",
+    "thumbnail": "https://gameglitchx.github.io/images/404.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ragdoll-show-throw-break-and-destroy",
+    "thumbnail": "https://gameglitchx.github.io/images/405.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ultra-realistic-blockcraft",
+    "thumbnail": "https://gameglitchx.github.io/images/406.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "cargo-skates",
+    "thumbnail": "https://gameglitchx.github.io/images/407.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bus-driver",
+    "thumbnail": "https://gameglitchx.github.io/images/408.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "offroad-muddy-trucks",
+    "thumbnail": "https://gameglitchx.github.io/images/409.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "yoga-master",
+    "thumbnail": "https://gameglitchx.github.io/images/410.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "zombie-rush",
+    "thumbnail": "https://gameglitchx.github.io/images/411.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "sudoku-guru-classic-sudoku",
+    "thumbnail": "https://gameglitchx.github.io/images/412.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bubble-pop-legend",
+    "thumbnail": "https://gameglitchx.github.io/images/413.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "country-life-meadows",
+    "thumbnail": "https://gameglitchx.github.io/images/414.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hidden-object-adventure",
+    "thumbnail": "https://gameglitchx.github.io/images/415.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "catch-thief",
+    "thumbnail": "https://gameglitchx.github.io/images/416.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bublix-bubble-hit",
+    "thumbnail": "https://gameglitchx.github.io/images/417.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "2-cars-run",
+    "thumbnail": "https://gameglitchx.github.io/images/418.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "lollipop-stack-run",
+    "thumbnail": "https://gameglitchx.github.io/images/419.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "iconic-halloween-costumes",
+    "thumbnail": "https://gameglitchx.github.io/images/420.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "mini-obby-war-game",
+    "thumbnail": "https://gameglitchx.github.io/images/421.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "solitaire-tail",
+    "thumbnail": "https://gameglitchx.github.io/images/422.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "picture-puzzles",
+    "thumbnail": "https://gameglitchx.github.io/images/423.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fashionista-christmas-eve-party",
+    "thumbnail": "https://gameglitchx.github.io/images/424.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "cute-coloring-games",
+    "thumbnail": "https://gameglitchx.github.io/images/425.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "wheel-of-bingo",
+    "thumbnail": "https://gameglitchx.github.io/images/426.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "jewelry-idle",
+    "thumbnail": "https://gameglitchx.github.io/images/427.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "merge-cubes-2048-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/428.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "horse-champs",
+    "thumbnail": "https://gameglitchx.github.io/images/429.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mr-bounce",
+    "thumbnail": "https://gameglitchx.github.io/images/430.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "vikings-an-archers-journey",
+    "thumbnail": "https://gameglitchx.github.io/images/431.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "drawer-sort",
+    "thumbnail": "https://gameglitchx.github.io/images/432.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "fruit-jam-merge-puzzle-game",
+    "thumbnail": "https://gameglitchx.github.io/images/433.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "wave-road-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/434.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "design-with-me-superhero-tutu-outfits",
+    "thumbnail": "https://gameglitchx.github.io/images/435.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "extreme-car-race-master-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/436.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "football-legends-2026",
+    "thumbnail": "https://gameglitchx.github.io/images/437.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "horseback-survival",
+    "thumbnail": "https://gameglitchx.github.io/images/438.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "find-the-frog-hidden-objects",
+    "thumbnail": "https://gameglitchx.github.io/images/439.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pin-master-screw-puzzle-quest-brain-games",
+    "thumbnail": "https://gameglitchx.github.io/images/440.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "minecraft-pixel-warfare",
+    "thumbnail": "https://gameglitchx.github.io/images/441.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "sword-run-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/442.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "frogtastic-marble-adventure",
+    "thumbnail": "https://gameglitchx.github.io/images/443.webp",
+    "genre": "Bubble Shooter, Match-3"
+  },
+  {
+    "id": "meow-market",
+    "thumbnail": "https://gameglitchx.github.io/images/444.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "lucky-brainrot-blocks-online",
+    "thumbnail": "https://gameglitchx.github.io/images/445.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "bubble-game-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/446.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "happy-blocks",
+    "thumbnail": "https://gameglitchx.github.io/images/447.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "brain-challenge",
+    "thumbnail": "https://gameglitchx.github.io/images/448.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "horror-forest-bear",
+    "thumbnail": "https://gameglitchx.github.io/images/449.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "carjamcolor",
+    "thumbnail": "https://gameglitchx.github.io/images/450.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "doomsday-zombie-td",
+    "thumbnail": "https://gameglitchx.github.io/images/451.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "battleship",
+    "thumbnail": "https://gameglitchx.github.io/images/452.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "popcat-clicker",
+    "thumbnail": "https://gameglitchx.github.io/images/453.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "superhero-drop-and-save",
+    "thumbnail": "https://gameglitchx.github.io/images/454.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "ramp-bike-jumping",
+    "thumbnail": "https://gameglitchx.github.io/images/455.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "capybara-block-drop",
+    "thumbnail": "https://gameglitchx.github.io/images/456.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "boo-tiful-princess-match",
+    "thumbnail": "https://gameglitchx.github.io/images/457.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "wednesday-addams-beauty-salon",
+    "thumbnail": "https://gameglitchx.github.io/images/458.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "ninja-wars-battle-simulator",
+    "thumbnail": "https://gameglitchx.github.io/images/459.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "animal-in-rails",
+    "thumbnail": "https://gameglitchx.github.io/images/460.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "snowboard-game-party",
+    "thumbnail": "https://gameglitchx.github.io/images/461.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "clap-clap-nightmare",
+    "thumbnail": "https://gameglitchx.github.io/images/462.webp",
+    "genre": "Adventure, .IO"
+  },
+  {
+    "id": "athena-match",
+    "thumbnail": "https://gameglitchx.github.io/images/463.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "soft-girls-winter-aesthetics",
+    "thumbnail": "https://gameglitchx.github.io/images/464.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "stickboys-hook",
+    "thumbnail": "https://gameglitchx.github.io/images/465.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "destination-brain-test",
+    "thumbnail": "https://gameglitchx.github.io/images/466.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "dont-panic-dude",
+    "thumbnail": "https://gameglitchx.github.io/images/467.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "candy-pop-mania",
+    "thumbnail": "https://gameglitchx.github.io/images/468.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "ship-parking-game",
+    "thumbnail": "https://gameglitchx.github.io/images/469.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "smash-the-car-to-pieces",
+    "thumbnail": "https://gameglitchx.github.io/images/470.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "block-master-super-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/471.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "road-chase-shooter-realistic-guns",
+    "thumbnail": "https://gameglitchx.github.io/images/472.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "magic-tri-peaks-solitaire",
+    "thumbnail": "https://gameglitchx.github.io/images/473.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "construction-truck-building-games-for-kids",
+    "thumbnail": "https://gameglitchx.github.io/images/474.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "ships-3d-io",
+    "thumbnail": "https://gameglitchx.github.io/images/475.webp",
+    "genre": "Shooter, .IO"
+  },
+  {
+    "id": "mecha-duel",
+    "thumbnail": "https://gameglitchx.github.io/images/476.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "boom-stick-bazooka",
+    "thumbnail": "https://gameglitchx.github.io/images/477.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "scp-173-escape",
+    "thumbnail": "https://gameglitchx.github.io/images/478.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "basket-sport-stars",
+    "thumbnail": "https://gameglitchx.github.io/images/479.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "twinkle-shooter",
+    "thumbnail": "https://gameglitchx.github.io/images/480.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "obby-highest-jump-ever",
+    "thumbnail": "https://gameglitchx.github.io/images/481.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "tile-sort-match-3",
+    "thumbnail": "https://gameglitchx.github.io/images/482.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "spellmind",
+    "thumbnail": "https://gameglitchx.github.io/images/483.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "merge-run-battle",
+    "thumbnail": "https://gameglitchx.github.io/images/484.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "falling-blocks-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/485.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "guess-the-drawing",
+    "thumbnail": "https://gameglitchx.github.io/images/486.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "trivia-nation",
+    "thumbnail": "https://gameglitchx.github.io/images/487.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "traffic-escape-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/488.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "glossy-bubbles-challenge",
+    "thumbnail": "https://gameglitchx.github.io/images/489.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "real-cars-epic-stunts",
+    "thumbnail": "https://gameglitchx.github.io/images/490.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "zombie-horde-build-survive",
+    "thumbnail": "https://gameglitchx.github.io/images/491.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "phone-case-diy-run",
+    "thumbnail": "https://gameglitchx.github.io/images/492.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bff-easter-photobooth-party",
+    "thumbnail": "https://gameglitchx.github.io/images/493.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "buckshot-roulette",
+    "thumbnail": "https://gameglitchx.github.io/images/494.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "fire-and-water-birds",
+    "thumbnail": "https://gameglitchx.github.io/images/495.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "jewel-garden-story",
+    "thumbnail": "https://gameglitchx.github.io/images/496.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "airport-security",
+    "thumbnail": "https://gameglitchx.github.io/images/497.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "labubu-adventure",
+    "thumbnail": "https://gameglitchx.github.io/images/498.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "save-the-piggies",
+    "thumbnail": "https://gameglitchx.github.io/images/499.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bubble-pop-fairyland",
+    "thumbnail": "https://gameglitchx.github.io/images/500.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "doodle-dino-run",
+    "thumbnail": "https://gameglitchx.github.io/images/501.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hospital-inc",
+    "thumbnail": "https://gameglitchx.github.io/images/502.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "princess-vs-shark",
+    "thumbnail": "https://gameglitchx.github.io/images/503.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "reach-2048",
+    "thumbnail": "https://gameglitchx.github.io/images/504.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "barbee-met-gala-transformation",
+    "thumbnail": "https://gameglitchx.github.io/images/505.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "worm-escape",
+    "thumbnail": "https://gameglitchx.github.io/images/506.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ragdoll-jump",
+    "thumbnail": "https://gameglitchx.github.io/images/507.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "avatar-master-fix-up-face",
+    "thumbnail": "https://gameglitchx.github.io/images/508.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "run-now",
+    "thumbnail": "https://gameglitchx.github.io/images/509.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "meow-slide",
+    "thumbnail": "https://gameglitchx.github.io/images/510.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "wired-chicken-inc",
+    "thumbnail": "https://gameglitchx.github.io/images/511.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mona-lisa-fashion-experiments",
+    "thumbnail": "https://gameglitchx.github.io/images/512.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "crazy-alien-adventure",
+    "thumbnail": "https://gameglitchx.github.io/images/513.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "stickman-team-detroit",
+    "thumbnail": "https://gameglitchx.github.io/images/514.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "your-dream-room",
+    "thumbnail": "https://gameglitchx.github.io/images/515.webp",
+    "genre": "Art, Casual"
+  },
+  {
+    "id": "battle-zone-2d",
+    "thumbnail": "https://gameglitchx.github.io/images/516.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "fruit-merge-arena",
+    "thumbnail": "https://gameglitchx.github.io/images/517.webp",
+    "genre": "Simulation, Merge"
+  },
+  {
+    "id": "bloons-survivalio",
+    "thumbnail": "https://gameglitchx.github.io/images/518.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "kitty-match-3-puzzle-game",
+    "thumbnail": "https://gameglitchx.github.io/images/519.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "farm-mahjong-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/520.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "ludo-star",
+    "thumbnail": "https://gameglitchx.github.io/images/521.webp",
+    "genre": "Boardgames, Casual"
+  },
+  {
+    "id": "fish-shooting-fish-hunter",
+    "thumbnail": "https://gameglitchx.github.io/images/522.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "dalgona-master",
+    "thumbnail": "https://gameglitchx.github.io/images/523.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "kitty-squad-winter-dress-up",
+    "thumbnail": "https://gameglitchx.github.io/images/524.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "stunt-rider",
+    "thumbnail": "https://gameglitchx.github.io/images/525.webp",
+    "genre": "Racing & Driving, Sports"
+  },
+  {
+    "id": "super-ninja-balloon",
+    "thumbnail": "https://gameglitchx.github.io/images/526.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "infinite-craft",
+    "thumbnail": "https://gameglitchx.github.io/images/527.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "vortex-ball",
+    "thumbnail": "https://gameglitchx.github.io/images/528.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "gun-war-z1",
+    "thumbnail": "https://gameglitchx.github.io/images/529.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "steal-car-duel",
+    "thumbnail": "https://gameglitchx.github.io/images/530.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "office-knight-3d-castle-defense",
+    "thumbnail": "https://gameglitchx.github.io/images/531.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "swordedio-spin-and-rub",
+    "thumbnail": "https://gameglitchx.github.io/images/532.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "k-pop-hunter-fashion",
+    "thumbnail": "https://gameglitchx.github.io/images/533.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "the-kulka",
+    "thumbnail": "https://gameglitchx.github.io/images/534.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "ride-shooter",
+    "thumbnail": "https://gameglitchx.github.io/images/535.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "gmod-bombs",
+    "thumbnail": "https://gameglitchx.github.io/images/536.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "strawberry-shortcake",
+    "thumbnail": "https://gameglitchx.github.io/images/537.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "goal-rush",
+    "thumbnail": "https://gameglitchx.github.io/images/538.webp",
+    "genre": "Football, Casual"
+  },
+  {
+    "id": "secrets-of-charmland",
+    "thumbnail": "https://gameglitchx.github.io/images/539.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "save-my-pet-party",
+    "thumbnail": "https://gameglitchx.github.io/images/540.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "noob-parkour-tricks",
+    "thumbnail": "https://gameglitchx.github.io/images/541.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "i-am-security",
+    "thumbnail": "https://gameglitchx.github.io/images/542.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ink-shop-dress-tattoo",
+    "thumbnail": "https://gameglitchx.github.io/images/543.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "obby-rainbow-tower",
+    "thumbnail": "https://gameglitchx.github.io/images/544.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "golf-orbit",
+    "thumbnail": "https://gameglitchx.github.io/images/545.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "elementz",
+    "thumbnail": "https://gameglitchx.github.io/images/546.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "cat-evolution",
+    "thumbnail": "https://gameglitchx.github.io/images/547.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "monster-school-2",
+    "thumbnail": "https://gameglitchx.github.io/images/548.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "candy-love",
+    "thumbnail": "https://gameglitchx.github.io/images/549.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "animal-merge-zoo-park",
+    "thumbnail": "https://gameglitchx.github.io/images/550.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "lovely-cat-pet-life",
+    "thumbnail": "https://gameglitchx.github.io/images/551.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "obby-blox-hook",
+    "thumbnail": "https://gameglitchx.github.io/images/552.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "wordler",
+    "thumbnail": "https://gameglitchx.github.io/images/553.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fashion-dye-pro",
+    "thumbnail": "https://gameglitchx.github.io/images/554.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "battle-of-pirate-caribbean-battle",
+    "thumbnail": "https://gameglitchx.github.io/images/555.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "emoji-match",
+    "thumbnail": "https://gameglitchx.github.io/images/556.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "shape-shift",
+    "thumbnail": "https://gameglitchx.github.io/images/557.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "vex-hyper-dash",
+    "thumbnail": "https://gameglitchx.github.io/images/558.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "food-tower-defense",
+    "thumbnail": "https://gameglitchx.github.io/images/559.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "monster-truck-crush",
+    "thumbnail": "https://gameglitchx.github.io/images/560.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "obby-pogo-parkour",
+    "thumbnail": "https://gameglitchx.github.io/images/561.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "geometry-wave-hero",
+    "thumbnail": "https://gameglitchx.github.io/images/562.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "mega-jump",
+    "thumbnail": "https://gameglitchx.github.io/images/563.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "math-wall-simulator",
+    "thumbnail": "https://gameglitchx.github.io/images/564.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "obby-champions",
+    "thumbnail": "https://gameglitchx.github.io/images/565.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "robot-transform-race",
+    "thumbnail": "https://gameglitchx.github.io/images/566.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "gt-championship-arcade",
+    "thumbnail": "https://gameglitchx.github.io/images/567.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "fall-bean-2",
+    "thumbnail": "https://gameglitchx.github.io/images/568.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "obby-1-pet-every-seconds",
+    "thumbnail": "https://gameglitchx.github.io/images/569.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "tic-tac-toe-match-three",
+    "thumbnail": "https://gameglitchx.github.io/images/570.webp",
+    "genre": "Boardgames, Match-3"
+  },
+  {
+    "id": "chickz-stack",
+    "thumbnail": "https://gameglitchx.github.io/images/571.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "air-strike-2d",
+    "thumbnail": "https://gameglitchx.github.io/images/572.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "world-cup-soccer-caps",
+    "thumbnail": "https://gameglitchx.github.io/images/573.webp",
+    "genre": "Football, Casual"
+  },
+  {
+    "id": "grandma-recipe-ramen",
+    "thumbnail": "https://gameglitchx.github.io/images/574.webp",
+    "genre": "Cooking, Puzzle"
+  },
+  {
+    "id": "word-game-2026",
+    "thumbnail": "https://gameglitchx.github.io/images/575.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "mojicon-garden-jigsolitaire",
+    "thumbnail": "https://gameglitchx.github.io/images/576.webp",
+    "genre": "Jigsaw"
+  },
+  {
+    "id": "stockings-dilemma",
+    "thumbnail": "https://gameglitchx.github.io/images/577.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "caillou-chef",
+    "thumbnail": "https://gameglitchx.github.io/images/578.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "holiday-hex-sort",
+    "thumbnail": "https://gameglitchx.github.io/images/579.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fun-town-parking",
+    "thumbnail": "https://gameglitchx.github.io/images/580.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "cinema-empire-idle-tycoon",
+    "thumbnail": "https://gameglitchx.github.io/images/581.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "batzo-runner",
+    "thumbnail": "https://gameglitchx.github.io/images/582.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "hard-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/583.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "skibronx-runner",
+    "thumbnail": "https://gameglitchx.github.io/images/584.webp",
+    "genre": "Adventure, Sports"
+  },
+  {
+    "id": "real-drive-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/585.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "horror-escape-granny-room",
+    "thumbnail": "https://gameglitchx.github.io/images/586.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "hexa-block-honey-cells",
+    "thumbnail": "https://gameglitchx.github.io/images/587.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "jungle-match-adventures",
+    "thumbnail": "https://gameglitchx.github.io/images/588.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "nesting-dolls",
+    "thumbnail": "https://gameglitchx.github.io/images/589.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "space-pin-master-pull-pin-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/590.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "food-sort-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/591.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "color-wavee",
+    "thumbnail": "https://gameglitchx.github.io/images/592.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bubble-escape",
+    "thumbnail": "https://gameglitchx.github.io/images/593.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dot-by-dot",
+    "thumbnail": "https://gameglitchx.github.io/images/594.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "bubble-shooter-pop",
+    "thumbnail": "https://gameglitchx.github.io/images/595.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "italian-brainrot-clicker",
+    "thumbnail": "https://gameglitchx.github.io/images/596.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "race-it-car-racing",
+    "thumbnail": "https://gameglitchx.github.io/images/597.webp",
+    "genre": "Racing & Driving, Sports"
+  },
+  {
+    "id": "bubble-letters",
+    "thumbnail": "https://gameglitchx.github.io/images/598.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ballpoint",
+    "thumbnail": "https://gameglitchx.github.io/images/599.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "4-hexa",
+    "thumbnail": "https://gameglitchx.github.io/images/600.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mojicon-spring-connect",
+    "thumbnail": "https://gameglitchx.github.io/images/601.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "real-motorbike-simulator-race-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/602.webp",
+    "genre": "Sports, .IO"
+  },
+  {
+    "id": "flip-it-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/603.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "kids-coloring",
+    "thumbnail": "https://gameglitchx.github.io/images/604.webp",
+    "genre": "Puzzle, Art"
+  },
+  {
+    "id": "hero-transform-race",
+    "thumbnail": "https://gameglitchx.github.io/images/605.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "duck-hunting-open-season",
+    "thumbnail": "https://gameglitchx.github.io/images/606.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ninja-spell-match",
+    "thumbnail": "https://gameglitchx.github.io/images/607.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "uncle-bullet-007",
+    "thumbnail": "https://gameglitchx.github.io/images/608.webp",
+    "genre": "Puzzle, Shooter"
+  },
+  {
+    "id": "octonauts-bubbles",
+    "thumbnail": "https://gameglitchx.github.io/images/609.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sprunki-jigsaw-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/610.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "just-dice-random-tower-defence",
+    "thumbnail": "https://gameglitchx.github.io/images/611.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "backrooms-among-impostor-rolling-giant",
+    "thumbnail": "https://gameglitchx.github.io/images/612.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "block-merge-city",
+    "thumbnail": "https://gameglitchx.github.io/images/613.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "elemental-monsters-merge-evolution",
+    "thumbnail": "https://gameglitchx.github.io/images/614.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "make-two",
+    "thumbnail": "https://gameglitchx.github.io/images/615.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "survival-in-area-51",
+    "thumbnail": "https://gameglitchx.github.io/images/616.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "potion-merge-witch",
+    "thumbnail": "https://gameglitchx.github.io/images/617.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "battle-racing-stars",
+    "thumbnail": "https://gameglitchx.github.io/images/618.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "fix-da-brainrot",
+    "thumbnail": "https://gameglitchx.github.io/images/619.webp",
+    "genre": "Jigsaw"
+  },
+  {
+    "id": "closed-city",
+    "thumbnail": "https://gameglitchx.github.io/images/620.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "brainrots-lava-survive-online",
+    "thumbnail": "https://gameglitchx.github.io/images/621.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "super-stock-stack",
+    "thumbnail": "https://gameglitchx.github.io/images/622.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "sprunki-shooter-2025",
+    "thumbnail": "https://gameglitchx.github.io/images/623.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "bomb-evolution",
+    "thumbnail": "https://gameglitchx.github.io/images/624.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ultimate-brainrot-clicker",
+    "thumbnail": "https://gameglitchx.github.io/images/625.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bomber-battle-arena",
+    "thumbnail": "https://gameglitchx.github.io/images/626.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "bbq-stack-run",
+    "thumbnail": "https://gameglitchx.github.io/images/627.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "baling-bum",
+    "thumbnail": "https://gameglitchx.github.io/images/628.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "toilet-pin",
+    "thumbnail": "https://gameglitchx.github.io/images/629.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "candy-color-sort-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/630.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pixel-art",
+    "thumbnail": "https://gameglitchx.github.io/images/631.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "draw-war",
+    "thumbnail": "https://gameglitchx.github.io/images/632.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "army-defence-dino-shoot",
+    "thumbnail": "https://gameglitchx.github.io/images/633.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "brick-game-classic",
+    "thumbnail": "https://gameglitchx.github.io/images/634.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bus-driver-simulator-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/635.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "speedrun-platformer",
+    "thumbnail": "https://gameglitchx.github.io/images/636.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "rpg-idle-clicker",
+    "thumbnail": "https://gameglitchx.github.io/images/637.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "royal-kitchen-the-lost-king",
+    "thumbnail": "https://gameglitchx.github.io/images/638.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "funny-fruits-merge-and-gather-watermelon",
+    "thumbnail": "https://gameglitchx.github.io/images/639.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "live-100-days",
+    "thumbnail": "https://gameglitchx.github.io/images/640.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "match-find-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/641.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "cannons-blast-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/642.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "world-war-brothers-ww2",
+    "thumbnail": "https://gameglitchx.github.io/images/643.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "enchanted-easter-adventure",
+    "thumbnail": "https://gameglitchx.github.io/images/644.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "unblock-it-atlantis",
+    "thumbnail": "https://gameglitchx.github.io/images/645.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pretty-sheep-run",
+    "thumbnail": "https://gameglitchx.github.io/images/646.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "knots",
+    "thumbnail": "https://gameglitchx.github.io/images/647.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "natural-disaster-survival-obby",
+    "thumbnail": "https://gameglitchx.github.io/images/648.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "star-attack-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/649.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "royal-crown-blast",
+    "thumbnail": "https://gameglitchx.github.io/images/650.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "family-tree-emoji",
+    "thumbnail": "https://gameglitchx.github.io/images/651.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "formula-traffic-racer",
+    "thumbnail": "https://gameglitchx.github.io/images/652.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "royal-family-tree",
+    "thumbnail": "https://gameglitchx.github.io/images/653.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "jab-jab-boxing",
+    "thumbnail": "https://gameglitchx.github.io/images/654.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "wonders-of-egypt-match-2",
+    "thumbnail": "https://gameglitchx.github.io/images/655.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "jewel-solitaire-tripeaks",
+    "thumbnail": "https://gameglitchx.github.io/images/656.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "red-light-green-light",
+    "thumbnail": "https://gameglitchx.github.io/images/657.webp",
+    "genre": "Agility, Simulation"
+  },
+  {
+    "id": "airport-controller",
+    "thumbnail": "https://gameglitchx.github.io/images/658.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "hair-salon-beauty-salon",
+    "thumbnail": "https://gameglitchx.github.io/images/659.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "grow-castle-defence",
+    "thumbnail": "https://gameglitchx.github.io/images/660.webp",
+    "genre": "Adventure, Strategy"
+  },
+  {
+    "id": "flower-sort",
+    "thumbnail": "https://gameglitchx.github.io/images/661.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "chrono-drive",
+    "thumbnail": "https://gameglitchx.github.io/images/662.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "real-freekick-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/663.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "counter-craft-sniper",
+    "thumbnail": "https://gameglitchx.github.io/images/664.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "block-tnt-blast",
+    "thumbnail": "https://gameglitchx.github.io/images/665.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "homo-evolution",
+    "thumbnail": "https://gameglitchx.github.io/images/666.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "parkour-block-obby",
+    "thumbnail": "https://gameglitchx.github.io/images/667.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "crystal-connect",
+    "thumbnail": "https://gameglitchx.github.io/images/668.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "cartoon-moto-stunt",
+    "thumbnail": "https://gameglitchx.github.io/images/669.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "santa-vs-skritch",
+    "thumbnail": "https://gameglitchx.github.io/images/670.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "sunny-link",
+    "thumbnail": "https://gameglitchx.github.io/images/671.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "brainrot-mega-parkour",
+    "thumbnail": "https://gameglitchx.github.io/images/672.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "capybara-skewer-match",
+    "thumbnail": "https://gameglitchx.github.io/images/673.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "power-light",
+    "thumbnail": "https://gameglitchx.github.io/images/674.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bubble-shooter-vintage",
+    "thumbnail": "https://gameglitchx.github.io/images/675.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "block-puzzle-jewel-forest",
+    "thumbnail": "https://gameglitchx.github.io/images/676.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "limousine-car-game-simulator",
+    "thumbnail": "https://gameglitchx.github.io/images/677.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "neon-gravity",
+    "thumbnail": "https://gameglitchx.github.io/images/678.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "the-counterfeit-bank",
+    "thumbnail": "https://gameglitchx.github.io/images/679.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "high-heels-2",
+    "thumbnail": "https://gameglitchx.github.io/images/680.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "steal-items-io",
+    "thumbnail": "https://gameglitchx.github.io/images/681.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "sand-block-blast",
+    "thumbnail": "https://gameglitchx.github.io/images/682.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bridge-wars",
+    "thumbnail": "https://gameglitchx.github.io/images/683.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "mahjong-garden",
+    "thumbnail": "https://gameglitchx.github.io/images/684.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "rope-color-sort-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/685.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "girl-coloring-dress-up-games",
+    "thumbnail": "https://gameglitchx.github.io/images/686.webp",
+    "genre": "Art, Casual, Dress-up"
+  },
+  {
+    "id": "ball-tower-of-hell",
+    "thumbnail": "https://gameglitchx.github.io/images/687.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "magic-and-wizards-match",
+    "thumbnail": "https://gameglitchx.github.io/images/688.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "slope-snowball",
+    "thumbnail": "https://gameglitchx.github.io/images/689.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "unicorn-find-the-differences",
+    "thumbnail": "https://gameglitchx.github.io/images/690.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "highschool-mean-girls-3",
+    "thumbnail": "https://gameglitchx.github.io/images/691.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "simon-super-rabbit",
+    "thumbnail": "https://gameglitchx.github.io/images/692.webp",
+    "genre": "Adventure, Educational"
+  },
+  {
+    "id": "dog-escape",
+    "thumbnail": "https://gameglitchx.github.io/images/693.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "car-destruction-king",
+    "thumbnail": "https://gameglitchx.github.io/images/694.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "hex-planet-idle",
+    "thumbnail": "https://gameglitchx.github.io/images/695.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "belote-3in1",
+    "thumbnail": "https://gameglitchx.github.io/images/696.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "zombie-frontier-shooter",
+    "thumbnail": "https://gameglitchx.github.io/images/697.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "magic-kingdom-hex-match",
+    "thumbnail": "https://gameglitchx.github.io/images/698.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "car-parking-simulator",
+    "thumbnail": "https://gameglitchx.github.io/images/699.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "griddlers-deluxe",
+    "thumbnail": "https://gameglitchx.github.io/images/700.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "nugget-man-survival-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/701.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "merge-home-mania",
+    "thumbnail": "https://gameglitchx.github.io/images/702.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "craft-drill",
+    "thumbnail": "https://gameglitchx.github.io/images/703.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "backflip-master",
+    "thumbnail": "https://gameglitchx.github.io/images/704.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "spaces-solitaire",
+    "thumbnail": "https://gameglitchx.github.io/images/705.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "snow-race-3d-fun-racing",
+    "thumbnail": "https://gameglitchx.github.io/images/706.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "ants-empire-evolve-sim",
+    "thumbnail": "https://gameglitchx.github.io/images/707.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "sort-master",
+    "thumbnail": "https://gameglitchx.github.io/images/708.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "drop-bricks-breaker",
+    "thumbnail": "https://gameglitchx.github.io/images/709.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mirrors-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/710.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bimka-drive-smash-cars-into-splinters",
+    "thumbnail": "https://gameglitchx.github.io/images/711.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "screw-it-out-jam-matching-colored-screws",
+    "thumbnail": "https://gameglitchx.github.io/images/712.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "italian-brainrot-tung-tung-racing",
+    "thumbnail": "https://gameglitchx.github.io/images/713.webp",
+    "genre": "Racing & Driving, Sports"
+  },
+  {
+    "id": "animal-swipe",
+    "thumbnail": "https://gameglitchx.github.io/images/714.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "truck-stack-colors",
+    "thumbnail": "https://gameglitchx.github.io/images/715.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "emergency-jam",
+    "thumbnail": "https://gameglitchx.github.io/images/716.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "stickman-miners-wars",
+    "thumbnail": "https://gameglitchx.github.io/images/717.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "zen-master-3-tiles",
+    "thumbnail": "https://gameglitchx.github.io/images/718.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "ink-inc-tattoo",
+    "thumbnail": "https://gameglitchx.github.io/images/719.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "farmer-pedro",
+    "thumbnail": "https://gameglitchx.github.io/images/720.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "arrow-escape",
+    "thumbnail": "https://gameglitchx.github.io/images/721.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "u-shape-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/722.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "rocket-fest",
+    "thumbnail": "https://gameglitchx.github.io/images/723.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "stick-hero-battle",
+    "thumbnail": "https://gameglitchx.github.io/images/724.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "human-evolution-run",
+    "thumbnail": "https://gameglitchx.github.io/images/725.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "merge-fusion",
+    "thumbnail": "https://gameglitchx.github.io/images/726.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "money-chaser-city-parkour-game",
+    "thumbnail": "https://gameglitchx.github.io/images/727.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "noob-in-geometry-dash",
+    "thumbnail": "https://gameglitchx.github.io/images/728.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "mahjong-match",
+    "thumbnail": "https://gameglitchx.github.io/images/729.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "block-digger",
+    "thumbnail": "https://gameglitchx.github.io/images/730.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "path-ice",
+    "thumbnail": "https://gameglitchx.github.io/images/731.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hidden-object-girl-and-cat",
+    "thumbnail": "https://gameglitchx.github.io/images/732.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "sokoban-puzzle-game",
+    "thumbnail": "https://gameglitchx.github.io/images/733.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "halloween-challenge",
+    "thumbnail": "https://gameglitchx.github.io/images/734.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "dynamons-connect",
+    "thumbnail": "https://gameglitchx.github.io/images/735.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "bloxdhop-io",
+    "thumbnail": "https://gameglitchx.github.io/images/736.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "apocalypse-shelter",
+    "thumbnail": "https://gameglitchx.github.io/images/737.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "mini-games-relax-collection-2",
+    "thumbnail": "https://gameglitchx.github.io/images/738.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "puzzle-wood-block",
+    "thumbnail": "https://gameglitchx.github.io/images/739.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "super-rock-climber",
+    "thumbnail": "https://gameglitchx.github.io/images/740.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "archery-master-bow-and-arrow",
+    "thumbnail": "https://gameglitchx.github.io/images/741.webp",
+    "genre": "Shooter, Sports"
+  },
+  {
+    "id": "easter-glamping-trip",
+    "thumbnail": "https://gameglitchx.github.io/images/742.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "mini-springs",
+    "thumbnail": "https://gameglitchx.github.io/images/743.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "my-horse-is-amazing",
+    "thumbnail": "https://gameglitchx.github.io/images/744.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "number-tubes",
+    "thumbnail": "https://gameglitchx.github.io/images/745.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "archery-ragdoll",
+    "thumbnail": "https://gameglitchx.github.io/images/746.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "pixel-journey",
+    "thumbnail": "https://gameglitchx.github.io/images/747.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "traffic-tap-survival",
+    "thumbnail": "https://gameglitchx.github.io/images/748.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mermaidcore-makeup",
+    "thumbnail": "https://gameglitchx.github.io/images/749.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "grukkle-onslaught",
+    "thumbnail": "https://gameglitchx.github.io/images/750.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "home-rush-the-fish-war",
+    "thumbnail": "https://gameglitchx.github.io/images/751.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "beat-music-battle",
+    "thumbnail": "https://gameglitchx.github.io/images/752.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "count-master-match-color-run",
+    "thumbnail": "https://gameglitchx.github.io/images/753.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "practice-on-me",
+    "thumbnail": "https://gameglitchx.github.io/images/754.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "save-my-hero",
+    "thumbnail": "https://gameglitchx.github.io/images/755.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "stunt-fury",
+    "thumbnail": "https://gameglitchx.github.io/images/756.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "meme-wars",
+    "thumbnail": "https://gameglitchx.github.io/images/757.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "arrow-wave",
+    "thumbnail": "https://gameglitchx.github.io/images/758.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "politon",
+    "thumbnail": "https://gameglitchx.github.io/images/759.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "lost-puppy-rescue-and-care",
+    "thumbnail": "https://gameglitchx.github.io/images/760.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "classic-mine-sweeper",
+    "thumbnail": "https://gameglitchx.github.io/images/761.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "relay-race",
+    "thumbnail": "https://gameglitchx.github.io/images/762.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bears-vs-art",
+    "thumbnail": "https://gameglitchx.github.io/images/763.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "merge-drop",
+    "thumbnail": "https://gameglitchx.github.io/images/764.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "tap-bead",
+    "thumbnail": "https://gameglitchx.github.io/images/765.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "vibrant-hearts-glamour-vs-punk",
+    "thumbnail": "https://gameglitchx.github.io/images/766.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "ultimate-transport-driving-sim",
+    "thumbnail": "https://gameglitchx.github.io/images/767.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "sky-balls-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/768.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "gun-fest",
+    "thumbnail": "https://gameglitchx.github.io/images/769.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "superhero-phone-simulator",
+    "thumbnail": "https://gameglitchx.github.io/images/770.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "grill-party",
+    "thumbnail": "https://gameglitchx.github.io/images/771.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bouncing-chick",
+    "thumbnail": "https://gameglitchx.github.io/images/772.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "animal-transform-race",
+    "thumbnail": "https://gameglitchx.github.io/images/773.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "brawl-bros-squad",
+    "thumbnail": "https://gameglitchx.github.io/images/774.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "party-games-mini-shooter-battle",
+    "thumbnail": "https://gameglitchx.github.io/images/775.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "headleg-dash-parkour",
+    "thumbnail": "https://gameglitchx.github.io/images/776.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "space-survival-rainbow-friends-monster",
+    "thumbnail": "https://gameglitchx.github.io/images/777.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "fishing-life",
+    "thumbnail": "https://gameglitchx.github.io/images/778.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "trial-xtreme",
+    "thumbnail": "https://gameglitchx.github.io/images/779.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "rope-sorting",
+    "thumbnail": "https://gameglitchx.github.io/images/780.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "dear-island",
+    "thumbnail": "https://gameglitchx.github.io/images/781.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "jungle-solitaire",
+    "thumbnail": "https://gameglitchx.github.io/images/782.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "celebrity-spring-fashion-trends",
+    "thumbnail": "https://gameglitchx.github.io/images/783.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "diamondz",
+    "thumbnail": "https://gameglitchx.github.io/images/784.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "unlock-the-bolts",
+    "thumbnail": "https://gameglitchx.github.io/images/785.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "squidgameio",
+    "thumbnail": "https://gameglitchx.github.io/images/786.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "math-lava-tower-race",
+    "thumbnail": "https://gameglitchx.github.io/images/787.webp",
+    "genre": "Educational, Quiz"
+  },
+  {
+    "id": "jailbreak-roblox-jumper",
+    "thumbnail": "https://gameglitchx.github.io/images/788.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "gt-cars-mega-ramps",
+    "thumbnail": "https://gameglitchx.github.io/images/789.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "mermaids-spot-the-differences",
+    "thumbnail": "https://gameglitchx.github.io/images/790.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "police-car-line-driving",
+    "thumbnail": "https://gameglitchx.github.io/images/791.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "shape-shifting",
+    "thumbnail": "https://gameglitchx.github.io/images/792.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "bubble-sky",
+    "thumbnail": "https://gameglitchx.github.io/images/793.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "fun-obby-extreme",
+    "thumbnail": "https://gameglitchx.github.io/images/794.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "pet-runner",
+    "thumbnail": "https://gameglitchx.github.io/images/795.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "disk-rush",
+    "thumbnail": "https://gameglitchx.github.io/images/796.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pin-detective",
+    "thumbnail": "https://gameglitchx.github.io/images/797.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "world-flags-trivia",
+    "thumbnail": "https://gameglitchx.github.io/images/798.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "cyber-monday",
+    "thumbnail": "https://gameglitchx.github.io/images/799.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "airways-maze",
+    "thumbnail": "https://gameglitchx.github.io/images/800.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-miner",
+    "thumbnail": "https://gameglitchx.github.io/images/801.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "brilliant-jewels",
+    "thumbnail": "https://gameglitchx.github.io/images/802.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "lol-surprise-game-zone",
+    "thumbnail": "https://gameglitchx.github.io/images/803.webp",
+    "genre": "Boardgames, Casual"
+  },
+  {
+    "id": "snakes",
+    "thumbnail": "https://gameglitchx.github.io/images/804.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "italian-brainrot-survive-parkour",
+    "thumbnail": "https://gameglitchx.github.io/images/805.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "xiblba-match",
+    "thumbnail": "https://gameglitchx.github.io/images/806.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "cat-football",
+    "thumbnail": "https://gameglitchx.github.io/images/807.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "domino-smash-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/808.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "papas-burger-cook",
+    "thumbnail": "https://gameglitchx.github.io/images/809.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "witch-craft-potion-sort",
+    "thumbnail": "https://gameglitchx.github.io/images/810.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fill-the-bottle",
+    "thumbnail": "https://gameglitchx.github.io/images/811.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ragdoll-mega-dunk",
+    "thumbnail": "https://gameglitchx.github.io/images/812.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "kings-and-queens-match-2",
+    "thumbnail": "https://gameglitchx.github.io/images/813.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "mission-santa-deliver-the-gifts",
+    "thumbnail": "https://gameglitchx.github.io/images/814.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sprunki-phase-brainrot",
+    "thumbnail": "https://gameglitchx.github.io/images/815.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "classic-backgammon",
+    "thumbnail": "https://gameglitchx.github.io/images/816.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ragdoll-mania",
+    "thumbnail": "https://gameglitchx.github.io/images/817.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bullet-heroes",
+    "thumbnail": "https://gameglitchx.github.io/images/818.webp",
+    "genre": "Shooter, .IO"
+  },
+  {
+    "id": "stickman-vs-zombies-epic-fight",
+    "thumbnail": "https://gameglitchx.github.io/images/819.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "lorenzo-the-runner",
+    "thumbnail": "https://gameglitchx.github.io/images/820.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "block-up",
+    "thumbnail": "https://gameglitchx.github.io/images/821.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "idle-pop-merge",
+    "thumbnail": "https://gameglitchx.github.io/images/822.webp",
+    "genre": "Shooter, Merge"
+  },
+  {
+    "id": "magic-flow",
+    "thumbnail": "https://gameglitchx.github.io/images/823.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "beauty-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/824.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "push-the-frog",
+    "thumbnail": "https://gameglitchx.github.io/images/825.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "stickman-kombat-2d",
+    "thumbnail": "https://gameglitchx.github.io/images/826.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "car-escape",
+    "thumbnail": "https://gameglitchx.github.io/images/827.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sheep-sort-puzzle-sort-color",
+    "thumbnail": "https://gameglitchx.github.io/images/828.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pet-salon-simulator",
+    "thumbnail": "https://gameglitchx.github.io/images/829.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "mr-bean-jump",
+    "thumbnail": "https://gameglitchx.github.io/images/830.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "jailbreak-escape-from-prison",
+    "thumbnail": "https://gameglitchx.github.io/images/831.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "save-the-crop",
+    "thumbnail": "https://gameglitchx.github.io/images/832.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "color-block-blast-3",
+    "thumbnail": "https://gameglitchx.github.io/images/833.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "tropical-match",
+    "thumbnail": "https://gameglitchx.github.io/images/834.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "pyramidz2",
+    "thumbnail": "https://gameglitchx.github.io/images/835.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "block-puzzle-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/836.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "stick-fight-the-chaos",
+    "thumbnail": "https://gameglitchx.github.io/images/837.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "jump-ball-classic",
+    "thumbnail": "https://gameglitchx.github.io/images/838.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "italian-brainrot-obby-parkour",
+    "thumbnail": "https://gameglitchx.github.io/images/839.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "car-parking-stunt-games-2024",
+    "thumbnail": "https://gameglitchx.github.io/images/840.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "g-wagon-city-driver",
+    "thumbnail": "https://gameglitchx.github.io/images/841.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "the-drag-racing-challenge",
+    "thumbnail": "https://gameglitchx.github.io/images/842.webp",
+    "genre": "Racing & Driving, Sports"
+  },
+  {
+    "id": "shadow-fighter",
+    "thumbnail": "https://gameglitchx.github.io/images/843.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "agent-squad",
+    "thumbnail": "https://gameglitchx.github.io/images/844.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "stick-war-saga",
+    "thumbnail": "https://gameglitchx.github.io/images/845.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "dragon-escape",
+    "thumbnail": "https://gameglitchx.github.io/images/846.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bitgoblins-rpg-simulator",
+    "thumbnail": "https://gameglitchx.github.io/images/847.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "construction-set-3d-builder",
+    "thumbnail": "https://gameglitchx.github.io/images/848.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "alphabet-merge-and-fight",
+    "thumbnail": "https://gameglitchx.github.io/images/849.webp",
+    "genre": "Battle, Merge"
+  },
+  {
+    "id": "bow-and-arrow",
+    "thumbnail": "https://gameglitchx.github.io/images/850.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "minecraft-battle-party",
+    "thumbnail": "https://gameglitchx.github.io/images/851.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "magic-princess-dress-up-doll",
+    "thumbnail": "https://gameglitchx.github.io/images/852.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "toy-claw-simulator",
+    "thumbnail": "https://gameglitchx.github.io/images/853.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "mr-racer-car-racing",
+    "thumbnail": "https://gameglitchx.github.io/images/854.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "rainbow-balls-2048",
+    "thumbnail": "https://gameglitchx.github.io/images/855.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "incredible-kids-dentist",
+    "thumbnail": "https://gameglitchx.github.io/images/856.webp",
+    "genre": "Care"
+  },
+  {
+    "id": "sakura-branch",
+    "thumbnail": "https://gameglitchx.github.io/images/857.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mutant-assassin-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/858.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "archers-random",
+    "thumbnail": "https://gameglitchx.github.io/images/859.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "bowling-stars",
+    "thumbnail": "https://gameglitchx.github.io/images/860.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "ellie-chinese-new-year-celebration",
+    "thumbnail": "https://gameglitchx.github.io/images/861.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "red-hide-ball",
+    "thumbnail": "https://gameglitchx.github.io/images/862.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "billiards-3d-russian-pyramid",
+    "thumbnail": "https://gameglitchx.github.io/images/863.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "atlantic-sky-hunter-xtreme",
+    "thumbnail": "https://gameglitchx.github.io/images/864.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "army-fight-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/865.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "hide-and-seek-horror-escape",
+    "thumbnail": "https://gameglitchx.github.io/images/866.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "christmas-blocks-sort",
+    "thumbnail": "https://gameglitchx.github.io/images/867.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pinball-basketball",
+    "thumbnail": "https://gameglitchx.github.io/images/868.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "math-quest",
+    "thumbnail": "https://gameglitchx.github.io/images/869.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hamster-combo-idle",
+    "thumbnail": "https://gameglitchx.github.io/images/870.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "happy-brothers",
+    "thumbnail": "https://gameglitchx.github.io/images/871.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "solitaire-match",
+    "thumbnail": "https://gameglitchx.github.io/images/872.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "alphabet-lore-maze",
+    "thumbnail": "https://gameglitchx.github.io/images/873.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "traffic-cop-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/874.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "bff-happy-spring",
+    "thumbnail": "https://gameglitchx.github.io/images/875.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "king-kong-chaos",
+    "thumbnail": "https://gameglitchx.github.io/images/876.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "seat-puzzle-cut-the-rope",
+    "thumbnail": "https://gameglitchx.github.io/images/877.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "graffiti-tags-spray-painting",
+    "thumbnail": "https://gameglitchx.github.io/images/878.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "cooking-cafe-food-chef",
+    "thumbnail": "https://gameglitchx.github.io/images/879.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "cake-sorting-deluxe",
+    "thumbnail": "https://gameglitchx.github.io/images/880.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "brainrot-mob-clash-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/881.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hero-story-monsters-crossing",
+    "thumbnail": "https://gameglitchx.github.io/images/882.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "peg-solitaire",
+    "thumbnail": "https://gameglitchx.github.io/images/883.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "ibiza-foam-party",
+    "thumbnail": "https://gameglitchx.github.io/images/884.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "bike-stunt-racing-legend",
+    "thumbnail": "https://gameglitchx.github.io/images/885.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "my-cake-shop-bake-serve",
+    "thumbnail": "https://gameglitchx.github.io/images/886.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "geometry-dash-maze-maps",
+    "thumbnail": "https://gameglitchx.github.io/images/887.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sea-battle-admiral",
+    "thumbnail": "https://gameglitchx.github.io/images/888.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "catch-the-pig",
+    "thumbnail": "https://gameglitchx.github.io/images/889.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fish-story-3",
+    "thumbnail": "https://gameglitchx.github.io/images/890.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "marble-bubble-legend",
+    "thumbnail": "https://gameglitchx.github.io/images/891.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "fortunes-deck-solitaire",
+    "thumbnail": "https://gameglitchx.github.io/images/892.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "puzzlejam",
+    "thumbnail": "https://gameglitchx.github.io/images/893.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "stack-blocks-connect-wooden-blocks",
+    "thumbnail": "https://gameglitchx.github.io/images/894.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hobo-speedster",
+    "thumbnail": "https://gameglitchx.github.io/images/895.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "mafia-roulette",
+    "thumbnail": "https://gameglitchx.github.io/images/896.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "island-battle-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/897.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "crazy-traffic-control",
+    "thumbnail": "https://gameglitchx.github.io/images/898.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "block-puzzle-king",
+    "thumbnail": "https://gameglitchx.github.io/images/899.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "find-sort-match",
+    "thumbnail": "https://gameglitchx.github.io/images/900.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "grunge-chic-alt-fashion",
+    "thumbnail": "https://gameglitchx.github.io/images/901.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "mosquito-bite-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/902.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "mr-reckless-car-chase-simulator",
+    "thumbnail": "https://gameglitchx.github.io/images/903.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "snake-king",
+    "thumbnail": "https://gameglitchx.github.io/images/904.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "color-dash",
+    "thumbnail": "https://gameglitchx.github.io/images/905.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "find-steal-brainrot-67-game",
+    "thumbnail": "https://gameglitchx.github.io/images/906.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "diy-makeup-salon-spa-makeover-studio",
+    "thumbnail": "https://gameglitchx.github.io/images/907.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "butterfly-match-mastery",
+    "thumbnail": "https://gameglitchx.github.io/images/908.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "screw-jam",
+    "thumbnail": "https://gameglitchx.github.io/images/909.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "the-roman-empire-colosseum",
+    "thumbnail": "https://gameglitchx.github.io/images/910.webp",
+    "genre": "Battle, Simulation"
+  },
+  {
+    "id": "color-wood-animal-jam",
+    "thumbnail": "https://gameglitchx.github.io/images/911.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cat-match-3",
+    "thumbnail": "https://gameglitchx.github.io/images/912.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "little-lily-halloween-prep",
+    "thumbnail": "https://gameglitchx.github.io/images/913.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "magic-printer",
+    "thumbnail": "https://gameglitchx.github.io/images/914.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "color-nuts-bolts-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/915.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "komaru-cat",
+    "thumbnail": "https://gameglitchx.github.io/images/916.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "tropical-cubes-2048",
+    "thumbnail": "https://gameglitchx.github.io/images/917.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "magic-forest-merge-the-secrets",
+    "thumbnail": "https://gameglitchx.github.io/images/918.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "city-builder",
+    "thumbnail": "https://gameglitchx.github.io/images/919.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "merge-cube-challenge",
+    "thumbnail": "https://gameglitchx.github.io/images/920.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "crazy-bus-station",
+    "thumbnail": "https://gameglitchx.github.io/images/921.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "labuba-halloween-infestation",
+    "thumbnail": "https://gameglitchx.github.io/images/922.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "car-mechanic-simulator-2025",
+    "thumbnail": "https://gameglitchx.github.io/images/923.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "blue-mushroom-cat-run",
+    "thumbnail": "https://gameglitchx.github.io/images/924.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "2-player-online-chess",
+    "thumbnail": "https://gameglitchx.github.io/images/925.webp",
+    "genre": "Boardgames, Strategy"
+  },
+  {
+    "id": "doors-awakening",
+    "thumbnail": "https://gameglitchx.github.io/images/926.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "kaboom-miner",
+    "thumbnail": "https://gameglitchx.github.io/images/927.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "truck-simulator-russia",
+    "thumbnail": "https://gameglitchx.github.io/images/928.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "race-clicker",
+    "thumbnail": "https://gameglitchx.github.io/images/929.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "top-hog",
+    "thumbnail": "https://gameglitchx.github.io/images/930.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "run-n-shoot",
+    "thumbnail": "https://gameglitchx.github.io/images/931.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "hamstercycle",
+    "thumbnail": "https://gameglitchx.github.io/images/932.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "brainrot-bridge-race-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/933.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "farm-animal-sort-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/934.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "coin-blitz",
+    "thumbnail": "https://gameglitchx.github.io/images/935.webp",
+    "genre": "Shooter, Strategy"
+  },
+  {
+    "id": "football-fun",
+    "thumbnail": "https://gameglitchx.github.io/images/936.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "going-balls-adventure-2",
+    "thumbnail": "https://gameglitchx.github.io/images/937.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "paperio-2",
+    "thumbnail": "https://gameglitchx.github.io/images/938.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "pixel-number-diy-coloring",
+    "thumbnail": "https://gameglitchx.github.io/images/939.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "world-cup-2026-soccer-game",
+    "thumbnail": "https://gameglitchx.github.io/images/940.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "mini-golf-battle",
+    "thumbnail": "https://gameglitchx.github.io/images/941.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "arrow-count-master",
+    "thumbnail": "https://gameglitchx.github.io/images/942.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dollys-restaurant-organizing",
+    "thumbnail": "https://gameglitchx.github.io/images/943.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "food-merge",
+    "thumbnail": "https://gameglitchx.github.io/images/944.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "mind-games-math-crosswords",
+    "thumbnail": "https://gameglitchx.github.io/images/945.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "stick-kill-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/946.webp",
+    "genre": "Puzzle, Shooter"
+  },
+  {
+    "id": "cat-rescue",
+    "thumbnail": "https://gameglitchx.github.io/images/947.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "beauty-world-and-fashion-stylist",
+    "thumbnail": "https://gameglitchx.github.io/images/948.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "aqua-sort-water-color-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/949.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "solitaire-story-tripeaks-6",
+    "thumbnail": "https://gameglitchx.github.io/images/950.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "rabbit-carrot",
+    "thumbnail": "https://gameglitchx.github.io/images/951.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "color-yarn-sort",
+    "thumbnail": "https://gameglitchx.github.io/images/952.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pushio",
+    "thumbnail": "https://gameglitchx.github.io/images/953.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "stunt-multiplayer-arena",
+    "thumbnail": "https://gameglitchx.github.io/images/954.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "dusty-maze-hunter",
+    "thumbnail": "https://gameglitchx.github.io/images/955.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "color-brain-test-games",
+    "thumbnail": "https://gameglitchx.github.io/images/956.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "push-the-colors",
+    "thumbnail": "https://gameglitchx.github.io/images/957.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "3d-kid-sliding-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/958.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "wipe-insight-master",
+    "thumbnail": "https://gameglitchx.github.io/images/959.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hexa-sort-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/960.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "plane-chase",
+    "thumbnail": "https://gameglitchx.github.io/images/961.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "skillwarz",
+    "thumbnail": "https://gameglitchx.github.io/images/962.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "meow-block-color-collect",
+    "thumbnail": "https://gameglitchx.github.io/images/963.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "frost-land-snow-survival",
+    "thumbnail": "https://gameglitchx.github.io/images/964.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "bear-vs-humans",
+    "thumbnail": "https://gameglitchx.github.io/images/965.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "cleaning-princess",
+    "thumbnail": "https://gameglitchx.github.io/images/966.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "stack-n-sort",
+    "thumbnail": "https://gameglitchx.github.io/images/967.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mini-scrapbook-paper",
+    "thumbnail": "https://gameglitchx.github.io/images/968.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sort-tiles",
+    "thumbnail": "https://gameglitchx.github.io/images/969.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "taptapboom",
+    "thumbnail": "https://gameglitchx.github.io/images/970.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pipe-connect",
+    "thumbnail": "https://gameglitchx.github.io/images/971.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "panda-adventure",
+    "thumbnail": "https://gameglitchx.github.io/images/972.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "caterfall-2048",
+    "thumbnail": "https://gameglitchx.github.io/images/973.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "magic-sorting",
+    "thumbnail": "https://gameglitchx.github.io/images/974.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "swat-plants-vs-zombies",
+    "thumbnail": "https://gameglitchx.github.io/images/975.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "stickman-archero-fight-stick-shadow-fight-war",
+    "thumbnail": "https://gameglitchx.github.io/images/976.webp",
+    "genre": "Agility, Battle"
+  },
+  {
+    "id": "driver-master-simulator",
+    "thumbnail": "https://gameglitchx.github.io/images/977.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "stickman-halloween-survive",
+    "thumbnail": "https://gameglitchx.github.io/images/978.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "celebrity-face-dance",
+    "thumbnail": "https://gameglitchx.github.io/images/979.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "pictures-riddle",
+    "thumbnail": "https://gameglitchx.github.io/images/980.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "squid-escape-game",
+    "thumbnail": "https://gameglitchx.github.io/images/981.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "2048-cube-merge",
+    "thumbnail": "https://gameglitchx.github.io/images/982.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "prison-escape-online",
+    "thumbnail": "https://gameglitchx.github.io/images/983.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "smart-dots-reloaded",
+    "thumbnail": "https://gameglitchx.github.io/images/984.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "shop-sorting-2",
+    "thumbnail": "https://gameglitchx.github.io/images/985.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fun-iq-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/986.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "clinic-cleanup-crew",
+    "thumbnail": "https://gameglitchx.github.io/images/987.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "geometry-subzero",
+    "thumbnail": "https://gameglitchx.github.io/images/988.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "pizza-maker-cooking-games-for-kids",
+    "thumbnail": "https://gameglitchx.github.io/images/989.webp",
+    "genre": "Cooking, Casual"
+  },
+  {
+    "id": "chicken-banana-run",
+    "thumbnail": "https://gameglitchx.github.io/images/990.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "aim-ninja",
+    "thumbnail": "https://gameglitchx.github.io/images/991.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stickman-duo-escape-the-tomb",
+    "thumbnail": "https://gameglitchx.github.io/images/992.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "face-changes",
+    "thumbnail": "https://gameglitchx.github.io/images/993.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "unicorn-princess-dress-up",
+    "thumbnail": "https://gameglitchx.github.io/images/994.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "real-racing-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/995.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "save-my-pet",
+    "thumbnail": "https://gameglitchx.github.io/images/996.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "horror-school-detective-story",
+    "thumbnail": "https://gameglitchx.github.io/images/997.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tank-challenge",
+    "thumbnail": "https://gameglitchx.github.io/images/998.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "robby-bomberman",
+    "thumbnail": "https://gameglitchx.github.io/images/999.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "cat-life-simulator",
+    "thumbnail": "https://gameglitchx.github.io/images/1000.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "sweet-business-of-cats-cakes",
+    "thumbnail": "https://gameglitchx.github.io/images/1001.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "memory-lane",
+    "thumbnail": "https://gameglitchx.github.io/images/1002.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "moto-traffic-rider",
+    "thumbnail": "https://gameglitchx.github.io/images/1003.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "witch-fairy-bff",
+    "thumbnail": "https://gameglitchx.github.io/images/1004.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "air-block",
+    "thumbnail": "https://gameglitchx.github.io/images/1005.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "city-drift-racing",
+    "thumbnail": "https://gameglitchx.github.io/images/1006.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "over-the-rainbow",
+    "thumbnail": "https://gameglitchx.github.io/images/1007.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "shiny-jewels",
+    "thumbnail": "https://gameglitchx.github.io/images/1008.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "sky-assault",
+    "thumbnail": "https://gameglitchx.github.io/images/1009.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "word-art-color-book-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/1010.webp",
+    "genre": "Puzzle, Art"
+  },
+  {
+    "id": "dead-paradise",
+    "thumbnail": "https://gameglitchx.github.io/images/1011.webp",
+    "genre": "Racing & Driving, Shooter"
+  },
+  {
+    "id": "excavator-simulator-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/1012.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "card-battle",
+    "thumbnail": "https://gameglitchx.github.io/images/1013.webp",
+    "genre": "Puzzle, Racing & Driving"
+  },
+  {
+    "id": "merge-balls-shooter-2048-connect-fruits",
+    "thumbnail": "https://gameglitchx.github.io/images/1014.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sort-parking",
+    "thumbnail": "https://gameglitchx.github.io/images/1015.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sprunki-garden",
+    "thumbnail": "https://gameglitchx.github.io/images/1016.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "vega-mix-fairy-town",
+    "thumbnail": "https://gameglitchx.github.io/images/1017.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "lambo-traffic-racer",
+    "thumbnail": "https://gameglitchx.github.io/images/1018.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "arrow-hit",
+    "thumbnail": "https://gameglitchx.github.io/images/1019.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "grand-theft-ny",
+    "thumbnail": "https://gameglitchx.github.io/images/1020.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "astral-escape",
+    "thumbnail": "https://gameglitchx.github.io/images/1021.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "the-sort-agency",
+    "thumbnail": "https://gameglitchx.github.io/images/1022.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "screw-puzzle-master",
+    "thumbnail": "https://gameglitchx.github.io/images/1023.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "checkers",
+    "thumbnail": "https://gameglitchx.github.io/images/1024.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tappy-bird-avoid-the-spikes",
+    "thumbnail": "https://gameglitchx.github.io/images/1025.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "soccer-duel",
+    "thumbnail": "https://gameglitchx.github.io/images/1026.webp",
+    "genre": "Football, Casual"
+  },
+  {
+    "id": "bombardino-crocodilo-terror-jumpscare",
+    "thumbnail": "https://gameglitchx.github.io/images/1027.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "minetap-merge-clicker",
+    "thumbnail": "https://gameglitchx.github.io/images/1028.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "muki-wizard",
+    "thumbnail": "https://gameglitchx.github.io/images/1029.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "wild-west-match-3",
+    "thumbnail": "https://gameglitchx.github.io/images/1030.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "idle-farm",
+    "thumbnail": "https://gameglitchx.github.io/images/1031.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "mobile-phone-case-design-diy",
+    "thumbnail": "https://gameglitchx.github.io/images/1032.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dungeon-master-knight",
+    "thumbnail": "https://gameglitchx.github.io/images/1033.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "capybara-xmas-merge",
+    "thumbnail": "https://gameglitchx.github.io/images/1034.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "doodle-road",
+    "thumbnail": "https://gameglitchx.github.io/images/1035.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bus-collect",
+    "thumbnail": "https://gameglitchx.github.io/images/1036.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "word-clash",
+    "thumbnail": "https://gameglitchx.github.io/images/1037.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "ball-sort",
+    "thumbnail": "https://gameglitchx.github.io/images/1038.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "noob-fun-fishing",
+    "thumbnail": "https://gameglitchx.github.io/images/1039.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "color-block-jam",
+    "thumbnail": "https://gameglitchx.github.io/images/1040.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "car-jam-traffic-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/1041.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "romantic-k-pop-transformation",
+    "thumbnail": "https://gameglitchx.github.io/images/1042.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "canasta-royale-offline",
+    "thumbnail": "https://gameglitchx.github.io/images/1043.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "street-racing-moto-drift",
+    "thumbnail": "https://gameglitchx.github.io/images/1044.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "bffs-cherry-blossom-celebration",
+    "thumbnail": "https://gameglitchx.github.io/images/1045.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "finger-soccer-tournament",
+    "thumbnail": "https://gameglitchx.github.io/images/1046.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "cards-klondike-solitaire",
+    "thumbnail": "https://gameglitchx.github.io/images/1047.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "murder",
+    "thumbnail": "https://gameglitchx.github.io/images/1048.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "limited-kaboom",
+    "thumbnail": "https://gameglitchx.github.io/images/1049.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mahjong-zen-garden",
+    "thumbnail": "https://gameglitchx.github.io/images/1050.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "happy-monsters",
+    "thumbnail": "https://gameglitchx.github.io/images/1051.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "superpixelint",
+    "thumbnail": "https://gameglitchx.github.io/images/1052.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "barbee-black-friday-fashion",
+    "thumbnail": "https://gameglitchx.github.io/images/1053.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "vega-mix-sea-adventures",
+    "thumbnail": "https://gameglitchx.github.io/images/1054.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "my-hospital-learn-care",
+    "thumbnail": "https://gameglitchx.github.io/images/1055.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "mahjong-quest-candyland-adventures",
+    "thumbnail": "https://gameglitchx.github.io/images/1056.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "gang-war-strike-shooter",
+    "thumbnail": "https://gameglitchx.github.io/images/1057.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "capybara-coin-master",
+    "thumbnail": "https://gameglitchx.github.io/images/1058.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "toy-match-3",
+    "thumbnail": "https://gameglitchx.github.io/images/1059.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "skip-love",
+    "thumbnail": "https://gameglitchx.github.io/images/1060.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ice-fishing-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/1061.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "idle-pet",
+    "thumbnail": "https://gameglitchx.github.io/images/1062.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "city-gas-station-simulator",
+    "thumbnail": "https://gameglitchx.github.io/images/1063.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "pull-the-thread-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/1064.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "merge-blocks-2048-style",
+    "thumbnail": "https://gameglitchx.github.io/images/1065.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "zindex",
+    "thumbnail": "https://gameglitchx.github.io/images/1066.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "words-from-words-sea",
+    "thumbnail": "https://gameglitchx.github.io/images/1067.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "guess-word",
+    "thumbnail": "https://gameglitchx.github.io/images/1068.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bunny-blox",
+    "thumbnail": "https://gameglitchx.github.io/images/1069.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sniper-elite-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/1070.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "cat-life-simulator-devil-cat",
+    "thumbnail": "https://gameglitchx.github.io/images/1071.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "pool-merge-mania",
+    "thumbnail": "https://gameglitchx.github.io/images/1072.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "connect-balls-new-year-puzzles",
+    "thumbnail": "https://gameglitchx.github.io/images/1073.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mahjong-triple-3d-tile-match",
+    "thumbnail": "https://gameglitchx.github.io/images/1074.webp",
+    "genre": "Mahjong & Connect, Match-3"
+  },
+  {
+    "id": "nuclear-day-survival",
+    "thumbnail": "https://gameglitchx.github.io/images/1075.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "stolen-house",
+    "thumbnail": "https://gameglitchx.github.io/images/1076.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "gem-deep-digger",
+    "thumbnail": "https://gameglitchx.github.io/images/1077.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "party-animals-cats-evolution",
+    "thumbnail": "https://gameglitchx.github.io/images/1078.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "crown-cannon",
+    "thumbnail": "https://gameglitchx.github.io/images/1079.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "puzzle-blocks",
+    "thumbnail": "https://gameglitchx.github.io/images/1080.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "twisted-rope",
+    "thumbnail": "https://gameglitchx.github.io/images/1081.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "blade-forge-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/1082.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "stick-color-war",
+    "thumbnail": "https://gameglitchx.github.io/images/1083.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "gas-station-stick-simulator",
+    "thumbnail": "https://gameglitchx.github.io/images/1084.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "catch-the-goose",
+    "thumbnail": "https://gameglitchx.github.io/images/1085.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "tralala-la-la-la-italiano",
+    "thumbnail": "https://gameglitchx.github.io/images/1086.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "agent-hunt-spy-shooter-game",
+    "thumbnail": "https://gameglitchx.github.io/images/1087.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "omg-word-rainbow",
+    "thumbnail": "https://gameglitchx.github.io/images/1088.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "arrow-sorting",
+    "thumbnail": "https://gameglitchx.github.io/images/1089.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "color-race-obby",
+    "thumbnail": "https://gameglitchx.github.io/images/1090.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "geometrix",
+    "thumbnail": "https://gameglitchx.github.io/images/1091.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "blocks-stack-rush",
+    "thumbnail": "https://gameglitchx.github.io/images/1092.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "dino-shooter-pro",
+    "thumbnail": "https://gameglitchx.github.io/images/1093.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "tung-tung-sagur-clicker",
+    "thumbnail": "https://gameglitchx.github.io/images/1094.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "noob-shooter-gun-battle-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/1095.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "nuts-bolts-screw-glass",
+    "thumbnail": "https://gameglitchx.github.io/images/1096.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "deadly-parkour",
+    "thumbnail": "https://gameglitchx.github.io/images/1097.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "feet-doctor-urgency-care",
+    "thumbnail": "https://gameglitchx.github.io/images/1098.webp",
+    "genre": "Care, Simulation"
+  },
+  {
+    "id": "cyber-arrow",
+    "thumbnail": "https://gameglitchx.github.io/images/1099.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "goon-ball",
+    "thumbnail": "https://gameglitchx.github.io/images/1100.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "crazy-bunnies",
+    "thumbnail": "https://gameglitchx.github.io/images/1101.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "squid-game-craft-runner",
+    "thumbnail": "https://gameglitchx.github.io/images/1102.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "minitoss",
+    "thumbnail": "https://gameglitchx.github.io/images/1103.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "arrow-survival-15-seconds",
+    "thumbnail": "https://gameglitchx.github.io/images/1104.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "sorting-candy-factory",
+    "thumbnail": "https://gameglitchx.github.io/images/1105.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hexa-stack",
+    "thumbnail": "https://gameglitchx.github.io/images/1106.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "childrens-doctor-treating-ears",
+    "thumbnail": "https://gameglitchx.github.io/images/1107.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "magical-diary-paper-dress-up",
+    "thumbnail": "https://gameglitchx.github.io/images/1108.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "smash-the-bottle",
+    "thumbnail": "https://gameglitchx.github.io/images/1109.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "winter-cosmofest",
+    "thumbnail": "https://gameglitchx.github.io/images/1110.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "cosmo-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/1111.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "anime-couple-avatar-maker",
+    "thumbnail": "https://gameglitchx.github.io/images/1112.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "summer-rider-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/1113.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "words-from-words",
+    "thumbnail": "https://gameglitchx.github.io/images/1114.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "snow-road-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/1115.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "theo-morinis-magical-resort",
+    "thumbnail": "https://gameglitchx.github.io/images/1116.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sniper-master",
+    "thumbnail": "https://gameglitchx.github.io/images/1117.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "lost-things-hidden-objects",
+    "thumbnail": "https://gameglitchx.github.io/images/1118.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "capybara-jump",
+    "thumbnail": "https://gameglitchx.github.io/images/1119.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "geometry-rush",
+    "thumbnail": "https://gameglitchx.github.io/images/1120.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "sort-resort",
+    "thumbnail": "https://gameglitchx.github.io/images/1121.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "war-of-gun",
+    "thumbnail": "https://gameglitchx.github.io/images/1122.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "meatrider",
+    "thumbnail": "https://gameglitchx.github.io/images/1123.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "stunt-bike-rider-bros",
+    "thumbnail": "https://gameglitchx.github.io/images/1124.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "squid-game-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/1125.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "mega-ramp-car-stunts",
+    "thumbnail": "https://gameglitchx.github.io/images/1126.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "12-in-1-solitaire",
+    "thumbnail": "https://gameglitchx.github.io/images/1127.webp",
+    "genre": "Cards, Strategy"
+  },
+  {
+    "id": "ninja-obby-parkour",
+    "thumbnail": "https://gameglitchx.github.io/images/1128.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "bubble-blitz-galaxy",
+    "thumbnail": "https://gameglitchx.github.io/images/1129.webp",
+    "genre": "Bubble Shooter, Match-3"
+  },
+  {
+    "id": "tripeaks-solitaire-escapes",
+    "thumbnail": "https://gameglitchx.github.io/images/1130.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "farm-tiles-harvest",
+    "thumbnail": "https://gameglitchx.github.io/images/1131.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "the-stone-miner",
+    "thumbnail": "https://gameglitchx.github.io/images/1132.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "zombie-monster-survivors",
+    "thumbnail": "https://gameglitchx.github.io/images/1133.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "circuit-master",
+    "thumbnail": "https://gameglitchx.github.io/images/1134.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "archer-legend",
+    "thumbnail": "https://gameglitchx.github.io/images/1135.webp",
+    "genre": "Shooter, Sports"
+  },
+  {
+    "id": "black-pink-stpatricks-day-concert",
+    "thumbnail": "https://gameglitchx.github.io/images/1136.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "brain-test-iq-challenge-2",
+    "thumbnail": "https://gameglitchx.github.io/images/1137.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "jigsaw-fantasy",
+    "thumbnail": "https://gameglitchx.github.io/images/1138.webp",
+    "genre": "Jigsaw"
+  },
+  {
+    "id": "battler",
+    "thumbnail": "https://gameglitchx.github.io/images/1139.webp",
+    "genre": "Battle, Cards"
+  },
+  {
+    "id": "bffs-k-pop-fangirls",
+    "thumbnail": "https://gameglitchx.github.io/images/1140.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "tap-hold",
+    "thumbnail": "https://gameglitchx.github.io/images/1141.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "sort-my-parking-area",
+    "thumbnail": "https://gameglitchx.github.io/images/1142.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "striped-fruit-watermelon-land",
+    "thumbnail": "https://gameglitchx.github.io/images/1143.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "car-racing-3d-drive-mad",
+    "thumbnail": "https://gameglitchx.github.io/images/1144.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "pull-the-pins",
+    "thumbnail": "https://gameglitchx.github.io/images/1145.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sid-ginny-y2k-glam-clash",
+    "thumbnail": "https://gameglitchx.github.io/images/1146.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "arcade-rope",
+    "thumbnail": "https://gameglitchx.github.io/images/1147.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "earth-defender",
+    "thumbnail": "https://gameglitchx.github.io/images/1148.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hotfoot-baseball",
+    "thumbnail": "https://gameglitchx.github.io/images/1149.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "jewel-legend-quest",
+    "thumbnail": "https://gameglitchx.github.io/images/1150.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "christmas-snowball-arena",
+    "thumbnail": "https://gameglitchx.github.io/images/1151.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "space-shooter-speed-typing-challenge",
+    "thumbnail": "https://gameglitchx.github.io/images/1152.webp",
+    "genre": "Shooter, Educational"
+  },
+  {
+    "id": "shanghai-town",
+    "thumbnail": "https://gameglitchx.github.io/images/1153.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "stickman-jump",
+    "thumbnail": "https://gameglitchx.github.io/images/1154.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "strange-packages",
+    "thumbnail": "https://gameglitchx.github.io/images/1155.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "asmr-washing-fixing",
+    "thumbnail": "https://gameglitchx.github.io/images/1156.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "monster-arena",
+    "thumbnail": "https://gameglitchx.github.io/images/1157.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "golden-frontier",
+    "thumbnail": "https://gameglitchx.github.io/images/1158.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "my-farm-life",
+    "thumbnail": "https://gameglitchx.github.io/images/1159.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "car-dealer-idle",
+    "thumbnail": "https://gameglitchx.github.io/images/1160.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "math-box-balance",
+    "thumbnail": "https://gameglitchx.github.io/images/1161.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "knock-and-run-100-doors-escape",
+    "thumbnail": "https://gameglitchx.github.io/images/1162.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cunning-ginger",
+    "thumbnail": "https://gameglitchx.github.io/images/1163.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ninja-climb",
+    "thumbnail": "https://gameglitchx.github.io/images/1164.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "dragon-draw-joust",
+    "thumbnail": "https://gameglitchx.github.io/images/1165.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "cooking-festival",
+    "thumbnail": "https://gameglitchx.github.io/images/1166.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "runic-block-collapse",
+    "thumbnail": "https://gameglitchx.github.io/images/1167.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "my-purrfect-cat-hotel",
+    "thumbnail": "https://gameglitchx.github.io/images/1168.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "ragdoll-football-2-players",
+    "thumbnail": "https://gameglitchx.github.io/images/1169.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "halloween-stickman-2",
+    "thumbnail": "https://gameglitchx.github.io/images/1170.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "tetro-merge",
+    "thumbnail": "https://gameglitchx.github.io/images/1171.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "stickman-escapes-from-prison",
+    "thumbnail": "https://gameglitchx.github.io/images/1172.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "rainbow-friends-survival",
+    "thumbnail": "https://gameglitchx.github.io/images/1173.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "mahjong-at-home-scandinavian-edition",
+    "thumbnail": "https://gameglitchx.github.io/images/1174.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "bubble-shooter-temple-jewels",
+    "thumbnail": "https://gameglitchx.github.io/images/1175.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "beat-the-zombies",
+    "thumbnail": "https://gameglitchx.github.io/images/1176.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "mine-jump",
+    "thumbnail": "https://gameglitchx.github.io/images/1177.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "put-the-fruit-together",
+    "thumbnail": "https://gameglitchx.github.io/images/1178.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "my-little-car-wash",
+    "thumbnail": "https://gameglitchx.github.io/images/1179.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "hyper-cars-ramp-crash",
+    "thumbnail": "https://gameglitchx.github.io/images/1180.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "idle-merge-car-and-race",
+    "thumbnail": "https://gameglitchx.github.io/images/1181.webp",
+    "genre": "Strategy, Merge"
+  },
+  {
+    "id": "hidden-objects-island",
+    "thumbnail": "https://gameglitchx.github.io/images/1182.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "draw-brige-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/1183.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "parkour-world-2",
+    "thumbnail": "https://gameglitchx.github.io/images/1184.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "puzzle-lines-and-knots-1",
+    "thumbnail": "https://gameglitchx.github.io/images/1185.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ammo-rush-master",
+    "thumbnail": "https://gameglitchx.github.io/images/1186.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "mushroom-fever-match-3",
+    "thumbnail": "https://gameglitchx.github.io/images/1187.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "banana-farm",
+    "thumbnail": "https://gameglitchx.github.io/images/1188.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "love-archer",
+    "thumbnail": "https://gameglitchx.github.io/images/1189.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "granny-gta-vegas",
+    "thumbnail": "https://gameglitchx.github.io/images/1190.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "coin-merge",
+    "thumbnail": "https://gameglitchx.github.io/images/1191.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "real-car-parking-simulator",
+    "thumbnail": "https://gameglitchx.github.io/images/1192.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "super-hero-driving-school",
+    "thumbnail": "https://gameglitchx.github.io/images/1193.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "ultimate-destruction-simulator",
+    "thumbnail": "https://gameglitchx.github.io/images/1194.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "egg-adventure-2",
+    "thumbnail": "https://gameglitchx.github.io/images/1195.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "cloneup-stack-yourself",
+    "thumbnail": "https://gameglitchx.github.io/images/1196.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pin-puzzle-save-the-sheep",
+    "thumbnail": "https://gameglitchx.github.io/images/1197.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "save-her-tour",
+    "thumbnail": "https://gameglitchx.github.io/images/1198.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "eat-blobs-simulator",
+    "thumbnail": "https://gameglitchx.github.io/images/1199.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "super-dog-hero-dash",
+    "thumbnail": "https://gameglitchx.github.io/images/1200.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "hypermarket-3d-store-cashier",
+    "thumbnail": "https://gameglitchx.github.io/images/1201.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "stealth-master-sneak-cat",
+    "thumbnail": "https://gameglitchx.github.io/images/1202.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "zumba-story",
+    "thumbnail": "https://gameglitchx.github.io/images/1203.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mr-macagi-adventures",
+    "thumbnail": "https://gameglitchx.github.io/images/1204.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "dice-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/1205.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "draw-bridge-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/1206.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bubble-trouble-2-rebubbled",
+    "thumbnail": "https://gameglitchx.github.io/images/1207.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "challenge-your-friends",
+    "thumbnail": "https://gameglitchx.github.io/images/1208.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "tap-block-puzzle-smash-game",
+    "thumbnail": "https://gameglitchx.github.io/images/1209.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "asmr-tattoo-treatment",
+    "thumbnail": "https://gameglitchx.github.io/images/1210.webp",
+    "genre": "Care, Dress-up"
+  },
+  {
+    "id": "russian-fishing-at-sea",
+    "thumbnail": "https://gameglitchx.github.io/images/1211.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "2048-merge-world",
+    "thumbnail": "https://gameglitchx.github.io/images/1212.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "roblox-halloween-costume-party",
+    "thumbnail": "https://gameglitchx.github.io/images/1213.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "mafia-sniper-crime-shooting",
+    "thumbnail": "https://gameglitchx.github.io/images/1214.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "hexa-sort-master",
+    "thumbnail": "https://gameglitchx.github.io/images/1215.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fat-cat-life",
+    "thumbnail": "https://gameglitchx.github.io/images/1216.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "find-it-out-colorful-book",
+    "thumbnail": "https://gameglitchx.github.io/images/1217.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hazmob-fps",
+    "thumbnail": "https://gameglitchx.github.io/images/1218.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "my-cottagecore-aesthetic-look",
+    "thumbnail": "https://gameglitchx.github.io/images/1219.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "city-tower-builder",
+    "thumbnail": "https://gameglitchx.github.io/images/1220.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "single-stroke-line-draw",
+    "thumbnail": "https://gameglitchx.github.io/images/1221.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pursuit-rampage",
+    "thumbnail": "https://gameglitchx.github.io/images/1222.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "the-superhero-league",
+    "thumbnail": "https://gameglitchx.github.io/images/1223.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "space-craft-ship-war",
+    "thumbnail": "https://gameglitchx.github.io/images/1224.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sudoku",
+    "thumbnail": "https://gameglitchx.github.io/images/1225.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "grill-it-all",
+    "thumbnail": "https://gameglitchx.github.io/images/1226.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "tangle-master-3d",
+    "thumbnail": "https://gameglitchx.github.io/images/1227.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "radical-rappelling",
+    "thumbnail": "https://gameglitchx.github.io/images/1228.webp",
+    "genre": "Sports, Strategy"
+  },
+  {
+    "id": "worldguessr",
+    "thumbnail": "https://gameglitchx.github.io/images/1229.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "garden-tales-mahjong-2",
+    "thumbnail": "https://gameglitchx.github.io/images/1230.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "mahjong-connect-tiles",
+    "thumbnail": "https://gameglitchx.github.io/images/1231.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "real-parkour-simulator",
+    "thumbnail": "https://gameglitchx.github.io/images/1232.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "mega-fall-ragdoll-simulator",
+    "thumbnail": "https://gameglitchx.github.io/images/1233.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "slide-block-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/1234.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "squirrel-with-a-gun",
+    "thumbnail": "https://gameglitchx.github.io/images/1235.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "draw-to-crush-monster-game",
+    "thumbnail": "https://gameglitchx.github.io/images/1236.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "racing-game-king-hp",
+    "thumbnail": "https://gameglitchx.github.io/images/1237.webp",
+    "genre": "Racing & Driving, Sports"
+  },
+  {
+    "id": "brainrot-hole",
+    "thumbnail": "https://gameglitchx.github.io/images/1238.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "draw-a-path-to-the-finish-line",
+    "thumbnail": "https://gameglitchx.github.io/images/1239.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "rainbow-friends-hide-and-seek",
+    "thumbnail": "https://gameglitchx.github.io/images/1240.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "hole-eat-grow-attack",
+    "thumbnail": "https://gameglitchx.github.io/images/1241.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "bubble-shooter-pro-4",
+    "thumbnail": "https://gameglitchx.github.io/images/1242.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "bubble-shooter-remastered",
+    "thumbnail": "https://gameglitchx.github.io/images/1243.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "unblock-ball-slide-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/1244.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ladder-master-color-run",
+    "thumbnail": "https://gameglitchx.github.io/images/1245.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cyberpunk-agent",
+    "thumbnail": "https://gameglitchx.github.io/images/1246.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "asmr-girl-livestream-mukbang",
+    "thumbnail": "https://gameglitchx.github.io/images/1247.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "fox-coin-match",
+    "thumbnail": "https://gameglitchx.github.io/images/1248.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ball-jump-switch-the-colors",
+    "thumbnail": "https://gameglitchx.github.io/images/1249.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "darts-jam",
+    "thumbnail": "https://gameglitchx.github.io/images/1250.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cooking-world-reborn",
+    "thumbnail": "https://gameglitchx.github.io/images/1251.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sort-games-challenge",
+    "thumbnail": "https://gameglitchx.github.io/images/1252.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "clicker-hero",
+    "thumbnail": "https://gameglitchx.github.io/images/1253.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "alien-intelligence-test",
+    "thumbnail": "https://gameglitchx.github.io/images/1254.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tile-hex-world-red-vs-blue",
+    "thumbnail": "https://gameglitchx.github.io/images/1255.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "block-dropping-merge",
+    "thumbnail": "https://gameglitchx.github.io/images/1256.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "candy-monster-raffi",
+    "thumbnail": "https://gameglitchx.github.io/images/1257.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "archer-go",
+    "thumbnail": "https://gameglitchx.github.io/images/1258.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "juicy-match-2",
+    "thumbnail": "https://gameglitchx.github.io/images/1259.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "drawing-squares",
+    "thumbnail": "https://gameglitchx.github.io/images/1260.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "cafe-owner-business-simulator",
+    "thumbnail": "https://gameglitchx.github.io/images/1261.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "bowmasters",
+    "thumbnail": "https://gameglitchx.github.io/images/1262.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "chibi-doll-coloring-dress-up",
+    "thumbnail": "https://gameglitchx.github.io/images/1263.webp",
+    "genre": "Art, Dress-up"
+  },
+  {
+    "id": "v-and-n-pizza-cooking-game",
+    "thumbnail": "https://gameglitchx.github.io/images/1264.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "merge-fruit-time",
+    "thumbnail": "https://gameglitchx.github.io/images/1265.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "romantic-match-tactics",
+    "thumbnail": "https://gameglitchx.github.io/images/1266.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "world-z-defense-zombie-defense",
+    "thumbnail": "https://gameglitchx.github.io/images/1267.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "stickman-rescue-draw-2-save",
+    "thumbnail": "https://gameglitchx.github.io/images/1268.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "kingdom-match",
+    "thumbnail": "https://gameglitchx.github.io/images/1269.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "sudoku-brain-blocks",
+    "thumbnail": "https://gameglitchx.github.io/images/1270.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "tropical-match-2",
+    "thumbnail": "https://gameglitchx.github.io/images/1271.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "daycare-tycoon",
+    "thumbnail": "https://gameglitchx.github.io/images/1272.webp",
+    "genre": "Educational, Simulation"
+  },
+  {
+    "id": "paw-clash",
+    "thumbnail": "https://gameglitchx.github.io/images/1273.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "ellie-and-friends-venice-carnival",
+    "thumbnail": "https://gameglitchx.github.io/images/1274.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "my-tiny-market",
+    "thumbnail": "https://gameglitchx.github.io/images/1275.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "knee-case-simulator",
+    "thumbnail": "https://gameglitchx.github.io/images/1276.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "domino-online-multiplayer",
+    "thumbnail": "https://gameglitchx.github.io/images/1277.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "openfront-gsw",
+    "thumbnail": "https://gameglitchx.github.io/images/1278.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "epic-hero-quest-idle-rpg",
+    "thumbnail": "https://gameglitchx.github.io/images/1279.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "cowboys-duel",
+    "thumbnail": "https://gameglitchx.github.io/images/1280.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "tower-defense",
+    "thumbnail": "https://gameglitchx.github.io/images/1281.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "antistress-simulator-of-sequins-diy",
+    "thumbnail": "https://gameglitchx.github.io/images/1282.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "merge-muscle",
+    "thumbnail": "https://gameglitchx.github.io/images/1283.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "build-your-aquarium",
+    "thumbnail": "https://gameglitchx.github.io/images/1284.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "the-final-riddle",
+    "thumbnail": "https://gameglitchx.github.io/images/1285.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "find-restore-hidden-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/1286.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "tower-swap",
+    "thumbnail": "https://gameglitchx.github.io/images/1287.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pet-me-maze",
+    "thumbnail": "https://gameglitchx.github.io/images/1288.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "draw-bridge-brain-game",
+    "thumbnail": "https://gameglitchx.github.io/images/1289.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "8-ball-pool-billiards-multiplayer",
+    "thumbnail": "https://gameglitchx.github.io/images/1290.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bottle-challenge",
+    "thumbnail": "https://gameglitchx.github.io/images/1291.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "tile-living",
+    "thumbnail": "https://gameglitchx.github.io/images/1292.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "jennys-math-puzzle",
+    "thumbnail": "https://gameglitchx.github.io/images/1293.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "anomaly-content-record",
+    "thumbnail": "https://gameglitchx.github.io/images/1294.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "penguin-farm-ice-merge",
+    "thumbnail": "https://gameglitchx.github.io/images/1295.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "baby-penguin-fishing",
+    "thumbnail": "https://gameglitchx.github.io/images/1296.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "autumn-glam-gala",
+    "thumbnail": "https://gameglitchx.github.io/images/1297.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "cubes-2048io",
+    "thumbnail": "https://gameglitchx.github.io/images/1298.webp",
+    "genre": "Adventure, .IO"
+  },
+  {
+    "id": "black-pink-christmas-concert",
+    "thumbnail": "https://gameglitchx.github.io/images/1299.webp",
+    "genre": "Dress-up"
+  }
+]
